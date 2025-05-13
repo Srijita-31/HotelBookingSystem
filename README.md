@@ -31,11 +31,6 @@ A simple, beginner-friendly hotel booking system built in Java. This console-bas
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run:
+**Clone this repository** or download the java file and run it locally.
 
-1. **Clone this repository** or download the `HotelBookingSystem.java` file.
-
-2. Open a terminal or command prompt and compile the program:
-
-   ```bash
-   javac HotelManagementSystem.java
